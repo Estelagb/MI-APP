@@ -1,0 +1,48 @@
+{
+    "productos": [
+
+    {
+    "id": 1,
+     "nombre": "Vela Aromática 90cc",
+      "precio":500, 
+      "src": "https://cdn.pixabay.com/photo/2022/09/14/04/50/candle-7453404_960_720.jpg",
+       "cantidad":1
+    },
+    {
+    "id": 2, 
+    "nombre": "Vela Aromática 180cc", 
+    "precio":800, 
+    "src": "https://media.istockphoto.com/id/994807816/es/foto/ajuste-de-spa-con-velas-arom%C3%A1ticas.jpg?s=612x612&w=0&k=20&c=RyVKT0TDuS4HDmfyRfBJJGwSwzI2xRNiB0zPCeR28Xg=", 
+    "cantidad":1 
+    },
+    {
+     "id": 3,
+     "nombre": "LLamador falso Vitreaux 12cm", 
+     "precio":1500, 
+     "src": "https://cdn.pixabay.com/photo/2016/05/20/16/47/color-1405478_960_720.jpg", 
+     "cantidad":1
+    },
+    {
+     "id": 4, 
+    "nombre": "LLamador Falso Vitreaux Lechuza", 
+    "precio":1800,
+     "src": "https://www.mendoza.gov.ar/wp-content/uploads/sites/49/2020/07/Llamador-picaflor-0.jpg", 
+     "cantidad" :1
+    },
+    {
+    "id": 5, 
+    "nombre": "LLamador Falso Vitreaux 20cm", 
+    "precio":2500, 
+    "src": "https://www.mendoza.gov.ar/wp-content/uploads/sites/49/2020/07/Llamador-duende-0.jpg", 
+    "cantidad":1
+    },
+    {
+     "id": 6,
+     "nombre": "Elefante Falso Vitreaux ", 
+     "precio":1800,
+      "src": "https://www.mendoza.gov.ar/wp-content/uploads/sites/49/2020/07/Llamador-flor-2.jpg", 
+      "cantidad":1
+    }
+    ],
+    "carrito": []
+}
